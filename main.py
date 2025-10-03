@@ -18,4 +18,6 @@ dict_data = {
 
 dict_data_json = json.dumps(dict_data) # Converte o dicionário para json
 
-requests.post(URL, data=dict_data_json)
+response = requests.post(URL, data=dict_data_json)
+print("Status Code:", response.status_code)
+print("Response Body:", response.text)
