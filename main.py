@@ -7,7 +7,7 @@
 import requests
 import json
 
-URL = "https://webhook.site/940e8df9-4cbc-434b-9199-86f6b9080625" # URL do webhook.site
+URL = "AQUI VAI SEU URL UNICO" # URL do webhook.site
 
 # Data precisa ser um dicionário no formato json
 dict_data = {
