@@ -14,6 +14,7 @@ Este projeto permite testar webhooks localmente usando o arquivo `main.py`.
     ```bash
     git clone <url-do-repositorio>
     cd webhook
+    cd send_webhook
     ```
 
 2. **Execute o código localmente com sua URL de um site de testes, por exemplo webhook.site:**
