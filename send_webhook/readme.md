@@ -1,4 +1,4 @@
-# Teste de Webhooks com Python (APENAS ENVIO)
+# Teste de Envio de Webhooks com Python
 
 Este projeto permite testar webhooks localmente usando o arquivo `main.py`.
 
